@@ -6,18 +6,21 @@ layout: home
 
 # Content Directory
 
-Hyperlinks to each of the presentation slides, lab exercises and demo instructions are listed below.
+Click [here](Presentation\Class Login.pdf) for access to class information include links and login information for the class.
+
+Hyperlinks to each of the presentation slides, lab exercises are listed below.
 
 ## Presentations
 
-1. [Module 1 Slides]
+1. [Module 1 Slides](Presentation/20778C_01U.pdf)
 2. [Module 2 Slides](Presentation/20778C_02U.pdf)
-3. [Module 3 Slides]
-4. [Module 4 Slides]
-5. [Module 5 Slides]
-6. [Module 6 Slides]
-7. [Module 7 Slides]
-8. [Module 8 SLides]
+3. [Module 3 Slides](Presentation/20778C_03U.pdf)
+4. [Module 4 Slides](Presentation/20778C_04U.pdf)
+5. [Module 5 Slides](Presentation/20778C_05U.pdf)
+6. [Module 6 Slides](Presentation/20778C_06U.pdf)
+7. [Module 7 Slides](Presentation/20778C_07U.pdf)
+8. [Module 8 SLides](Presentation/20778C_08U.pdf)
+9. [Module 9 Slides]
 
 ## Labs
 
