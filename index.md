@@ -6,9 +6,9 @@ layout: home
 
 # Content Directory
 
-Click [here](Presentation\ClassLogins.pdf) for access to class information include links and login information for the class.
+Click [here](Presentation\ClassLogins.pdf) for access to class information including links and login information for the class.
 
-Hyperlinks to each of the presentation slides, lab exercises are listed below.
+Below are links to each of the presentation slide decks and lab exercises.
 
 ## Presentations
 
