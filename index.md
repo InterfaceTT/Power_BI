@@ -6,7 +6,7 @@ layout: home
 
 # Content Directory
 
-Click [here](Presentation\Class Login.pdf) for access to class information include links and login information for the class.
+Click [here](Presentation\ClassLogins.pdf) for access to class information include links and login information for the class.
 
 Hyperlinks to each of the presentation slides, lab exercises are listed below.
 
@@ -19,7 +19,7 @@ Hyperlinks to each of the presentation slides, lab exercises are listed below.
 5. [Module 5 Slides](Presentation/20778C_05U.pdf)
 6. [Module 6 Slides](Presentation/20778C_06U.pdf)
 7. [Module 7 Slides](Presentation/20778C_07U.pdf)
-8. [Module 8 SLides](Presentation/20778C_08U.pdf)
+8. [Module 8 Slides](Presentation/20778C_08U.pdf)
 9. [Module 9 Slides]
 
 ## Labs
