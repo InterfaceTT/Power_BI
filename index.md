@@ -8,6 +8,8 @@ layout: home
 
 Click [here](Presentation\ClassLogins.pdf) for access to class information including links and login information for the class.
 
+Click [here](Presentation\PowerBILinks.pdf) for a list of useful books and links on PowerBI.
+
 Below are links to each of the presentation slide decks and lab exercises.
 
 ## Presentations
@@ -20,7 +22,7 @@ Below are links to each of the presentation slide decks and lab exercises.
 6. [Module 6 Slides](Presentation/20778C_06U.pdf)
 7. [Module 7 Slides](Presentation/20778C_07U.pdf)
 8. [Module 8 Slides](Presentation/20778C_08U.pdf)
-9. [Module 9 Slides]
+9. [Module 9 Slides](Presentation/20778C_09U.pdf)
 
 ## Labs
 
